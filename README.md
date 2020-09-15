@@ -1,4 +1,20 @@
-# Simple MVC
+# Projet client fictif dans le cadre de la formation dev php wild code school
+
+refontes d'un site de restauration avec ajout de fonctionnalités et nouvellle charte graphique.
+
+partie client/utilisateur :
+page d'accueil permettant la presentation du restaurant et l'accès aux differentes fonctionnalités
+consultation gallerie phoo et commentaire
+geolocalisation
+consultation du menu du restaurant 
+système de reservation
+
+parie admin/restaurateur:
+utilisation CRUD pour garder la carte du restaurant à jour
+validation des reservations
+moderation des commentaires
+
+## Simple MVC
 
 ## Description
 
